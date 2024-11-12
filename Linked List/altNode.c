@@ -121,7 +121,7 @@ NODE *alternateNodes(NODE *start1, NODE *start2)
             current = &((*current)->next);
         }
     }
-    *current = NULL; // Ensure the last node's next is NULL
+    *current = NULL; 
     return mergedList;
 }
 

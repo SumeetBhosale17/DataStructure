@@ -162,7 +162,6 @@ void deleteAtEnd()  // function to delete the node at the last location
 	else 
 	{
 		p = start;
-		int i = 1;
 		while (p->next != NULL) // to get last and second last node
 		{
 			q = p; // to get second last node
