@@ -74,6 +74,7 @@ Description:
     -> Since it Uses Binary Search Approach, the time complexity is O(logn) and the space complexity is also O(logn)
 */
 
+//Main Function
 int main()
 {
     printf("Enter size of the array : ");
