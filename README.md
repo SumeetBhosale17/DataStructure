@@ -68,7 +68,7 @@ Welcome to the **Data Structures Practice Problems** repository! This repository
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd datastructures-practice
+    cd DataStructure
     ```
 
 3. **Compile the Code**
