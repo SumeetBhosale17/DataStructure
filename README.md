@@ -62,7 +62,7 @@ Welcome to the **Data Structures Practice Problems** repository! This repository
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/datastructures-practice.git
+    git clone https://github.com/SumeetBhosale17/DataStructure.git
     ```
 
 2. **Navigate to the Project Directory**
